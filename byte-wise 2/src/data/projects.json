@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Algorithm 1",
+    "imageSrc": "projects/algo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "visualize": "https://www.google.com"
+  },
+  {
+    "title": "Algorithm 1",
+    "imageSrc": "projects/algo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "visualize": "https://www.google.com"
+  },
+  {
+    "title": "Algorithm 1",
+    "imageSrc": "projects/algo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "visualize": "https://www.google.com"
+    }
+,
+  {
+    "title": "Algorithm 1",
+    "imageSrc": "projects/algo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "visualize": "https://www.google.com"
+  }
+  ,
+  {
+    "title": "Algorithm 1",
+    "imageSrc": "projects/algo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "visualize": "https://www.google.com"
+    }
+
+]
